@@ -1,0 +1,10 @@
+.byebug_history
+
+# Rubymine
+.idea/
+
+# Npm Packages
+node_modules/
+
+# Environment variables
+env.sh
